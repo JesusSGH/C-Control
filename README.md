@@ -60,15 +60,3 @@ Instala dependencias:
 ```bash
 pip install -r requirements.txt
 
-
-<h2>Capturas de la aplicación</h2>
-
-<h3>Conciliación de mayor</h3>
-<p>
-  <img src="conciliacion.png" alt="Conciliación de mayor" width="900">
-</p>
-
-<h3>Análisis de activos y amortización</h3>
-<p>
-  <img src="Activos.png" alt="Análisis de activos y amortización" width="900">
-</p>
