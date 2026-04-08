@@ -59,3 +59,11 @@ Instala dependencias:
 
 ```bash
 pip install -r requirements.txt
+
+## Capturas de la aplicación
+
+### Conciliación de mayor
+![Conciliación de mayor](./conciliacion.png)
+
+### Análisis de activos y amortización
+![Análisis de activos y amortización](./Activos.png)
