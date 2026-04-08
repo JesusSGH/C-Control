@@ -61,10 +61,14 @@ Instala dependencias:
 pip install -r requirements.txt
 
 
-## Capturas de la aplicación
+<h2>Capturas de la aplicación</h2>
 
-### Conciliación de mayor
-![Conciliación de mayor](./conciliacion.png)
+<h3>Conciliación de mayor</h3>
+<p>
+  <img src="conciliacion.png" alt="Conciliación de mayor" width="900">
+</p>
 
-### Análisis de activos y amortización
-![Análisis de activos y amortización](./Activos.png)
+<h3>Análisis de activos y amortización</h3>
+<p>
+  <img src="Activos.png" alt="Análisis de activos y amortización" width="900">
+</p>
