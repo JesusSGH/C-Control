@@ -1,0 +1,43 @@
+C-CONTROL · PAQUETE LOCAL PORTABLE
+
+OBJETIVO
+- Ejecutar C-Control en cualquier ordenador Windows con Python instalado.
+- Mantener todo autocontenido dentro de una sola carpeta.
+
+ARCHIVOS QUE DEBEN ESTAR JUNTOS EN LA MISMA CARPETA
+- app_con_modo_comparacion_ccontrol_actualizado_v7_3.py
+- engine.py
+- excel_export.py
+- comparison_engine_ccontrol_actualizado_v6_RECUPERADO.py
+- excel_export_comparison_ccontrol_actualizado_v6_RECUPERADO.py
+- requirements.txt
+- INSTALAR_CCONTROL.bat
+- INICIAR_CCONTROL.bat
+
+RECOMENDACION DE PYTHON
+- Python 3.11 o 3.12
+- Al instalarlo, marcar: Add Python to PATH
+
+INSTALACION
+1. Copia toda la carpeta de C-Control al ordenador de destino.
+2. Comprueba que los archivos anteriores están dentro de esa misma carpeta.
+3. Haz doble clic en INSTALAR_CCONTROL.bat
+4. Cuando termine, haz doble clic en INICIAR_CCONTROL.bat
+
+USO
+- Se abrirá la aplicación en el navegador.
+- Si no se abre sola, copia la URL local que aparezca en la ventana negra.
+- Para moverlo a otro ordenador, copia la carpeta completa.
+
+MODULOS INCLUIDOS EN ESTA VERSION
+- Conciliación de mayor
+- Comparación entre periodos
+- Análisis especial de cuenta 555
+- Análisis de activos, amortización y dotación 681
+
+NOTAS IMPORTANTES
+- No uses rutas absolutas a carpetas de tu equipo.
+- Trabaja siempre con archivos dentro de la misma carpeta del proyecto.
+- Esta versión detecta formato estándar, Holded y A3.
+- El resumen distingue entre cuentas detectadas, cuentas válidas y cuentas excluidas.
+- Los módulos especiales permiten análisis adicional sin alterar el flujo principal de conciliación y comparación.
