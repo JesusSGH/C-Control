@@ -60,6 +60,7 @@ Instala dependencias:
 ```bash
 pip install -r requirements.txt
 
+```markdown id="fixreadme1"
 ## Capturas de la aplicación
 
 ### Conciliación de mayor
